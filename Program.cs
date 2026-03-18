@@ -7,4 +7,4 @@ string name = Console.ReadLine();
 Console.WriteLine($"Nice to meet you, {name}!");
 
 Console.WriteLine("Press any key to exit...");
-Console.ReadKey(); // This WILL work in VS Code
+Console.ReadKey(); 
