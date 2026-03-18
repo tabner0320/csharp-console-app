@@ -15,7 +15,7 @@ During this process, I learned How to create and run a .NET console application,
 and I learned how to implement string interpolation in C#.
 
 How to Run the Project
-git clone https://github.com/YOUR-USERNAME/csharp-console-app.git
+git clone https://github.com/tabner0320/csharp-console-app.git
 
 Navigate to the project folder
 cd csharp-console-app
